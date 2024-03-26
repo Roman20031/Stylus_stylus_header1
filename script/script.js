@@ -1,4 +1,4 @@
-const hamburger = document.querySelector(".hamburger");
+const hamburger = document.querySelector(".wrapper-hamburger");
 const nav = document.querySelector("nav");
  
 let state = false;

@@ -1,6 +1,6 @@
 "use strict";
 
-var hamburger = document.querySelector(".hamburger");
+var hamburger = document.querySelector(".wrapper-hamburger");
 var nav = document.querySelector("nav");
 var state = false;
 hamburger.addEventListener("click", function () {
